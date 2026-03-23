@@ -18,7 +18,7 @@ and then hot-loads the plugin into the sidebar.
 Install as a Pi package:
 
 ```bash
-pi install npm:@sero-ai/plugin-notes
+pi install git:https://github.com/monobyte/sero-notes-plugin.git
 ```
 
 The agent gains a `notes` tool (list, add, edit, remove, pin, unpin, show) and
